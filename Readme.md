@@ -40,3 +40,5 @@ __놀라셨네요__
    3. 프로젝트 설명 ( 구현한 기능 및 사진 )
    4. 사용한 기술 스택
 [구글][https://google.com]
+
+[bedge][https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black]
