@@ -1,4 +1,6 @@
 # 이 파일이 무엇이냐면요
+> <img src = "https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" alt = "wow" />
+
 텍스트 파일로만 이루어져있어요
 ***
 
