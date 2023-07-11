@@ -44,3 +44,9 @@ __놀라셨네요__
 [구글][https://google.com]
 
 [bedge][https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black]
+
+
+#### TIKTOKTIKTOK
+| O | X | O |
+|--|--|--|
+| x | o | x |
